@@ -1,30 +1,17 @@
 ---
 title: Welcome to my blog!
 ---
-**Welcome!**
----
-Two roads diverged in a yellow wood,
-And sorry I could not travel both
-And be one traveler, long I stood
-And looked down one as far as I could
-To where it bent in the undergrowth;
----
-Then took the other, as just as fair,
-And having perhaps the better claim,
-Because it was grassy and wanted wear;
-Though as for that the passing there
-Had worn them really about the same,
----
-And both that morning equally lay
-In leaves no step had trodden black.
-Oh, I kept the first for another day!
-Yet knowing how way leads on to way,
-I doubted if I should ever come back.
----
-I shall be telling this with a sigh
-Somewhere ages and ages hence:
-Two roads diverged in a wood, and I—
-I took the one less traveled by,
-And that has made all the difference.
----
-*by Robert Frost*
+**Welcome to My Corner of the Web**
+I'm learning something new today, with code and commits to spare,
+A journey into GitHub's world — and I'm glad you're here to share.
+This blog is fresh, a testing ground, a place to push and pull,
+To version-control my thoughts and dreams and keep my pipeline full.
+Every coder starts somewhere small, with a repo and a dream,
+With merge conflicts and README files and more than meets the meme.
+So here I am, a beginner brave, typing line by line,
+Discovering that every push makes something ordinary — shine.
+This isn't perfect. That's the point. It's built for learning's sake,
+For every bug and broken branch teaches something new to take.
+So follow along, explore with me, as I figure out this space —
+Because the best blogs aren't just finished things, they're the joy of finding your place.
+Fork your curiosity. Commit to growth. And never stop exploring.
